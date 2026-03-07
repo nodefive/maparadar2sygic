@@ -1,4 +1,4 @@
-# Maparadar to Sygic Converter (maparadar2sygic)
+# Maparadar to Sygic Converter
 
 A Python 3 tool designed to convert Speed Camera and Photo Radar data from the IGO format to the Sygic `offlinespeedcams.dat` format.
 

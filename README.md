@@ -12,7 +12,7 @@ A Python 3 tool designed to convert Speed Camera and Photo Radar data from the I
 Ensure the script is executable and run it:
 ```bash
 chmod +x maparadar2sygic
-./maparadar2sygic [options] [files...]
+maparadar2sygic [options] [files...]
 ```
 
 ## Command Line Arguments
@@ -34,5 +34,5 @@ chmod +x maparadar2sygic
 ## Example
 Convert a specific file and set the output name:
 ```bash
-./maparadar2sygic -d my_cameras.dat SpeedCamText.txt
+maparadar2sygic -d my_cameras.dat SpeedCamText.txt
 ```
